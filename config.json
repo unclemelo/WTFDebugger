@@ -1,0 +1,11 @@
+{
+    "cooldown": 0.5,
+    "show_trash_logs": false,
+    "enabled_categories": {
+        "PlayerStats": false,
+        "Session": true,
+        "WeaponStats": false,
+        "LevelProgression": true,
+        "Matchmaking": true
+    }
+}
