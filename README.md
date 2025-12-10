@@ -9,9 +9,9 @@ It highlights log entries with colors, extracts JSON blocks, and filters for mat
 
 * Automatically detects log file path on:
 
-  * Windows (`%LOCALAPPDATA%\Worlds_FPS\Saved\Logs`)
-  * Linux (`~/.local/share/Worlds_FPS/Saved/Logs`)
-  * WSL (`/mnt/c/Users/<username>/AppData/Local/Worlds_FPS/Saved/Logs`)
+  * Windows (`%LOCALAPPDATA%\Worlds_FPS\Saved\Logs`) / WORKS Recommended
+  * Linux (`~/.local/share/Worlds_FPS/Saved/Logs`) / Not READY nor TESTED
+  * WSL (`/mnt/c/Users/<username>/AppData/Local/Worlds_FPS/Saved/Logs`) / Not READY
 * Color-coded console output using `colorama`:
 
   * Errors ➞ Red
